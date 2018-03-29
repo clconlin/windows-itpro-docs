@@ -88,6 +88,9 @@ Use the following steps to validate your MBAM Server deployment with the Stand-a
     -   http(s)://&lt; *MBAMAdministrationServerName*&gt;:&lt;*port*&gt;/MBAMAdministrationService/AdministrationService.svc
 
     -   http(s)://&lt; *MBAMAdministrationServerName*&gt;:&lt;*port*&gt;/MBAMUserSupportService/UserSupportService.svc
+    
+        **Note**  
+    For MBAM 2.5 SP1 validation this URL can be skipped as this service has been removed.
 
     -   http(s)://&lt; *MBAMAdministrationServerName*&gt;:&lt;*port*&gt;/MBAMComplianceStatusService/StatusReportingService.svc
 
